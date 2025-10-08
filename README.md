@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousaf Atiq</h1>
-<h3 align="center" style="font-size: 28px; color: #00ffff; font-weight: bold;">Software Engineer | Data Scientist | AI & ML</h3>
+<h3 align="center" style="font-size: 28px; color: #00ffff; font-weight: bold;">Software Engineer | Data Scientist | Web Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=usaf007&label=Profile%20views&color=00ffff&style=flat-square" alt="Profile Views" />
