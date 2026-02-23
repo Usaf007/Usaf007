@@ -9,10 +9,10 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 <p align="center">
-  🎓 <b>Software Engineering Student</b> at the University of Engineering & Technology (UET), Mardan.<br>
-  💡 Passionate about building scalable web applications and <b>extracting insights from data</b>.<br>
-  🎯 Currently specializing in <b>Data Science & Machine Learning</b> to solve real-world problems.<br>
-  🚀 Experienced in Full-Stack Development, ranging from <b>low-level C++</b> to <b>modern Web Frameworks</b>.
+  🎓 <b>Software Engineering Student</b> at UET Mardan.<br>
+  💡 Focused on building scalable applications and <b>extracting insights from data</b>.<br>
+  🎯 Specializing in <b>Data Science & Machine Learning</b> to solve complex problems.<br>
+  🌱 Currently exploring: <b>Deep Learning & Statistical Modeling</b>.
 </p>
 
 ---
@@ -20,6 +20,8 @@
 <h2 align="center">🧪 Data Science & Machine Learning</h2>
 <p align="center">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="55" height="55"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="55" height="55"/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="55" height="55"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="55" height="55"/></a>
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="55" height="55"/></a>
@@ -39,11 +41,12 @@
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50"/></a>
 </p>
 
-<h2 align="center">🛠️ Programming & DevOps</h2>
+<h2 align="center">🛠️ Programming & Environment</h2>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/></a>
 </p>
