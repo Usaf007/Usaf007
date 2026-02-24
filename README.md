@@ -46,15 +46,19 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/></a>
+</p>
+
+---
+
+<h2 align="center">📈 Activity Graph</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usaf007&theme=tokyonight&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
 
 <h2 align="center">📊 GitHub Analytics</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usaf007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usaf007&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
 
