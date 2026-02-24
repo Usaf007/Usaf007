@@ -53,24 +53,21 @@
 
 ---
 
-<h2 align="center">📈 Weekly Activity</h2>
+<h2 align="center">📈 Weekly Contribution Activity</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usaf007&theme=tokyonight&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usaf007&theme=react-dark&area=true&hide_border=true&custom_title=Weekly%20Coding%20Activity" width="100%" alt="Activity Graph" />
 </p>
 
 ---
 
 <h2 align="center">📊 GitHub Analytics</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usaf007&show_icons=true&locale=en&layout=compact&theme=tokyonight&v=1" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=usaf007&show_icons=true&theme=tokyonight&v=2" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usaf007&theme=tokyonight&v=2" alt="GitHub Streak" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usaf007&show_icons=true&locale=en&theme=tokyonight&v=1" alt="GitHub Stats" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usaf007&theme=tokyonight" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usaf007&show_icons=true&locale=en&layout=compact&theme=tokyonight&v=2&hide=html,css" alt="Top Languages" height="180" />
 </p>
 
 ---
