@@ -53,22 +53,20 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">📈 Weekly Activity</h2>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=usaf007&theme=algolia&margin-w=10" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usaf007&theme=tokyonight&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
 
 <h2 align="center">📊 GitHub Analytics</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usaf007&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usaf007&show_icons=true&locale=en&layout=compact&theme=tokyonight&v=1" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usaf007&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=usaf007&show_icons=true&locale=en&theme=tokyonight&v=1" alt="GitHub Stats" height="180" />
 </p>
 
 <p align="center">
