@@ -40,24 +40,27 @@
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/></a>
 </p>
 
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">🛠️ Programming & Environment</h2>
 <p align="center">
-  <img src="https://github-contribution-grid-snake.generate.github.io/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/></a>
 </p>
 
 ---
 
 <h2 align="center">📊 GitHub Analytics</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Main%20Language-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Science-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Active%20Contributor-orange?style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=usaf007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usaf007&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
 
 <p align="center">
-  <b>Current Streak:</b> 🔥 See Activity Grid Below | <b>Total Contributions:</b> 🚀 30+
+  <img src="https://img.shields.io/badge/Main%20Language-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Science-success?style=for-the-badge" />
 </p>
 
 ---
