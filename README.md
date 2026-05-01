@@ -12,7 +12,7 @@
   🎓 <b>Software Engineering Student</b> at UET Mardan.<br>
   💡 Focused on building scalable full-stack applications and <b>intelligent AI-driven solutions</b>.<br>
   🎯 Specializing in <b>Data Science, Machine Learning, and Generative AI</b> to solve complex problems.<br>
-  🌱 Currently building a production-grade <b>RAG system</b> for document processing using <b>LangChain, LlamaIndex, and Vector DBs</b>.
+  🛠️ Passionate about architecting scalable <b>AI-driven applications</b> and optimizing <b>Data Pipelines</b>.
 </p>
 
 ---
@@ -28,12 +28,11 @@
   <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="55" height="55"/></a>
   <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="55" height="55"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="55" height="55"/></a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" alt="LlamaIndex" />
-  <img src="https://img.shields.io/badge/Vector%20DBs-009688?style=for-the-badge&logo=mongodb&logoColor=white" alt="Vector DBs" />
+  <a href="https://langchain.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/126733545?v=4" alt="LangChain / LangGraph" width="55" height="55" style="border-radius: 10px;"/></a>
+  <a href="https://www.llamaindex.ai/" target="_blank"><img src="https://avatars.githubusercontent.com/u/119918730?v=4" alt="LlamaIndex" width="55" height="55" style="border-radius: 10px;"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://www.vectorlogo.zone/logos/huggingface/huggingface-icon.svg" alt="HuggingFace" width="55" height="55"/></a>
+  <a href="https://openai.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="OpenAI / RAG" width="55" height="55"/></a>
+  <a href="https://milvus.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/45532549?v=4" alt="Vector DBs" width="55" height="55" style="border-radius: 10px;"/></a>
 </p>
 
 <h2 align="center">🌐 Web & Mobile Development Stack</h2>
@@ -75,7 +74,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Main%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Science,%20AI%20%26%20ML-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Specialization-Generative%20AI%20%26%20RAG-000000?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Backend%20%26%20APIs-Django%20%7C%20FastAPI-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
