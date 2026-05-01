@@ -28,11 +28,6 @@
   <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="55" height="55"/></a>
   <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="55" height="55"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="55" height="55"/></a>
-
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" style="margin: 0 5px;"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=pepy&logoColor=white" alt="LlamaIndex" style="margin: 0 5px;"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" style="margin: 0 5px;"/>
-  <img src="https://img.shields.io/badge/Vector%20DBs-009688?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector DBs" style="margin: 0 5px;"/>
 </p>
 
 <h2 align="center">🌐 Web & Mobile Development Stack</h2>
