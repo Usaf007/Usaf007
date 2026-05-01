@@ -30,7 +30,6 @@
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="55" height="55"/></a>
   <a href="https://langchain.com/" target="_blank"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="45" height="45" style="margin: 0 5px;"/></a>
   <a href="https://huggingface.co/" target="_blank"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="HuggingFace" width="45" height="45" style="margin: 0 5px;"/></a>
-  <a href="https://openai.com/" target="_blank"><img src="https://cdn.simpleicons.org/openai/412991" alt="OpenAI" width="45" height="45" style="margin: 0 5px;"/></a>
   <a href="https://milvus.io/" target="_blank"><img src="https://cdn.simpleicons.org/milvus/00a2e8" alt="Milvus Vector DB" width="45" height="45" style="margin: 0 5px;"/></a>
 </p>
 </p>
