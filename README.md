@@ -28,11 +28,6 @@
   <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="55" height="55"/></a>
   <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="55" height="55"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="55" height="55"/></a>
-  <a href="https://langchain.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/126733545?v=4" alt="LangChain / LangGraph" width="55" height="55" style="border-radius: 10px;"/></a>
-  <a href="https://www.llamaindex.ai/" target="_blank"><img src="https://avatars.githubusercontent.com/u/119918730?v=4" alt="LlamaIndex" width="55" height="55" style="border-radius: 10px;"/></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="https://www.vectorlogo.zone/logos/huggingface/huggingface-icon.svg" alt="HuggingFace" width="55" height="55"/></a>
-  <a href="https://openai.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="OpenAI / RAG" width="55" height="55"/></a>
-  <a href="https://milvus.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/45532549?v=4" alt="Vector DBs" width="55" height="55" style="border-radius: 10px;"/></a>
 </p>
 
 <h2 align="center">🌐 Web & Mobile Development Stack</h2>
