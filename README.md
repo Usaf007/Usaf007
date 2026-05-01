@@ -70,7 +70,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Main%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Data%20Science,%20AI%20%26%20ML-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Specialization-Generative%20AI%20%26%20RAG-000000?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Backend%20%26%20APIs-Django%20%7C%20FastAPI-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
