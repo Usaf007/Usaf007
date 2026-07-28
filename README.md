@@ -32,7 +32,6 @@
   <a href="https://huggingface.co/" target="_blank"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="HuggingFace" width="45" height="45" style="margin: 0 5px;"/></a>
   <a href="https://milvus.io/" target="_blank"><img src="https://cdn.simpleicons.org/milvus/00a2e8" alt="Milvus Vector DB" width="45" height="45" style="margin: 0 5px;"/></a>
 </p>
-</p>
 
 <h2 align="center">🌐 Web & Mobile Development Stack</h2>
 <p align="center">
@@ -68,7 +67,7 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usaf007&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=usaf007&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
 
 <p align="center">
@@ -79,8 +78,9 @@
 
 ---
 
-<h2 align="center">📫 Reach Me</h2>
+<h2 align="center">🤝 Connect with Me</h2>
 <p align="center">
+  <a href="https://usaf-atiq-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00ffff?style=for-the-badge&logo=react&logoColor=black" /></a>
   <a href="mailto:usafatiq@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yousaf-atiq-458baa34b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yousaf-atiq-458baa34b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
