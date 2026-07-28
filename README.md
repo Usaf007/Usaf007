@@ -22,7 +22,7 @@
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55"/></a>
   <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="55" height="55"/></a>
   <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="55" height="55"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="55" height="55"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://pandas.pydata.org/_images/logo-mark-lightbg.svg" alt="Pandas" width="55" height="55"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="55" height="55"/></a>
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="55" height="55"/></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="55" height="55"/></a>
@@ -67,7 +67,7 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=usaf007&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=usaf007&theme=tokyonight&hide_border=true&mode=daily" alt="GitHub Streak" height="180" />
 </p>
 
 <p align="center">
@@ -78,9 +78,9 @@
 
 ---
 
-<h2 align="center">🤝 Connect with Me</h2>
+<h2 align="center">📫 Connect with Me</h2>
 <p align="center">
-  <a href="https://usaf-atiq-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00ffff?style=for-the-badge&logo=react&logoColor=black" /></a>
+  <a href="https://usaf-atiq-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:usafatiq@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/yousaf-atiq-458baa34b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
